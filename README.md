@@ -2,6 +2,4 @@
 Ćwiczenie z markdown
 
 ## Zadania do wykonania:
-* ''Tekst pogrubiony''
-* '''Kursywa'''
-*
+
