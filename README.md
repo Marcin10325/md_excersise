@@ -2,4 +2,4 @@
 Ćwiczenie z markdown
 
 ## Zadania do wykonania:
-
+* ~~Przekreślenie~~
