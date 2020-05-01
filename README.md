@@ -3,3 +3,5 @@
 
 ## Zadania do wykonania:
 * ~~Przekreślenie~~
+* **Pogrubienie**
+* _Kursywa_
